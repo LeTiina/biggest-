@@ -1,0 +1,1 @@
+This function takes three numbers and returns the biggest one.
